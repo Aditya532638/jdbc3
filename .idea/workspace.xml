@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d73e506-8e47-4f71-b835-11e602622397" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc/DeleteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc/InsertData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc/ShowData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc/UpdateData.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d73e506-8e47-4f71-b835-11e602622397" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +50,28 @@
       <option name="presentableId" value="Default" />
       <updated>1734327288118</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1734673355620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734673355620</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1734673442017</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734673442017</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1734673548517</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734673548517</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
